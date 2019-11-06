@@ -8,6 +8,8 @@ namespace projeto_teste_git
         {
             Console.WriteLine("Alô mundo!!");
 
+            Console.WriteLine("Boa noite.");
+
             Console.WriteLine();
         }
     }
